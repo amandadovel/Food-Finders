@@ -39,3 +39,4 @@ These instructions will get you a copy of the project up and running on your loc
 *** Kyle Holmes *** - [KyOhTee](https://github.com/KyOhTee)
 <br>
 
+*** Jeff Westcott *** - [Jwestcott9](https://github.com/jwestcott9/jwestcott9.github.io)
