@@ -31,14 +31,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors ⌨️
 *** Amanda Dovel *** - [amandadovel](https://github.com/amandadovel)
-
 <br>
 
 *** Mathew McDonald *** - [MathewShawn](https://github.com/MatthewShawn)
-
 <br>
 
 *** Kyle Holmes *** - [KyOhTee](https://github.com/KyOhTee)
-
 <br>
 
