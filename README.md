@@ -29,5 +29,16 @@ These instructions will get you a copy of the project up and running on your loc
 * [API](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f) - Application Program Interface      which acts as a messenger allowing two programs to talk to each other. 
 * [Firebase](https://firebase.google.com/) - Provides realtime database and backend as a service. 
 
-## Author ⌨️
+## Authors ⌨️
 *** Amanda Dovel *** - [amandadovel](https://github.com/amandadovel)
+
+<br>
+
+*** Mathew McDonald *** - [MathewShawn](https://github.com/MatthewShawn)
+
+<br>
+
+*** Kyle Holmes *** - [KyOhTee](https://github.com/KyOhTee)
+
+<br>
+
